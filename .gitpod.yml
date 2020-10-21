@@ -1,0 +1,4 @@
+pip install pygame
+pip install numpy
+
+I am using numpy arrays because it's easy to create 2D Arrays with it, which make up the basis of the minesweeper script. This whole thing runs depending on the grid numpy array...
